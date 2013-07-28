@@ -1,0 +1,540 @@
+TQRContact
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Info.plist QRContact/QRContact-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.pth QRContact/QRContact-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact normal armv7
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj/InfoPlist.strings QRContact/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default.png QRContact/Default.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default@2x.png QRContact/Default@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default-568h@2x.png QRContact/Default-568h@2x.png
+cCompileStoryboard /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/MainStoryboard.storyboard
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/icon.png icon.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-back.png ZBarSDK/Resources/zbar-back.png
+cCpResource ZBarSDK/Resources/zbar-help.html DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-help.html
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-helpicons.png ZBarSDK/Resources/zbar-helpicons.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-samples.png ZBarSDK/Resources/zbar-samples.png
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision
+cTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent
+cCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051BC19820000000000000110
+t1371281794
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000512CF0E500000000000001A7
+t1361899749
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000512CF0E500000000000001E5
+t1361899749
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000512CF0E7000000000036CDF0
+t1361899751
+s3591664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000512CF0E7000000000014A320
+t1361899751
+s1352480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF0E80000000000322700
+t1361899752
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000512CF0E800000000001694D0
+t1361899752
+s1479888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000512CF0E80000000000041310
+t1361899752
+s267024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF0E9000000000062AD10
+t1361899753
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF0E800000000000015F7
+t1361899752
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000512CF0EA00000000003596B0
+t1361899754
+s3511984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF0EA0000000000000E8D
+t1361899754
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF0EE00000000011BCDF0
+t1361899758
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c00000000512CF0F20000000000001B73
+t1361899762
+s7027
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/lib/libiconv.dylib
+c00000000512CF0F300000000001F4F00
+t1361899763
+s2051840
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/QRContact.LinkFileList
+c0000000051F4CC8B00000000000002B8
+t1374997643
+s696
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Info.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/PkgInfo
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/icon.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-back.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-help.html
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-helpicons.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-samples.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m
+c0000000050AA042900000000000007E1
+t1353319465
+s2017
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m
+c0000000050AA05E400000000000000C1
+t1353319908
+s193
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/QRContact-Prefix.pch
+c0000000050AA04290000000000000141
+t1353319465
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.m
+c0000000050BEDDF10000000000003E09
+t1354685937
+s15881
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/InfoPlist.strings
+c0000000050AA0429000000000000002D
+t1353319465
+s45
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/MainStoryboard.storyboard
+c0000000050BE3F4C0000000000001335
+t1354645324
+s4917
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.m
+c0000000050AA0429000000000000015A
+t1353319465
+s346
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-back.png
+c000000004E40215F000000000000013F
+t1312825695
+s319
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-help.html
+c000000004E40215F0000000000000D37
+t1312825695
+s3383
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-helpicons.png
+c000000004E40215F00000000000047AE
+t1312825695
+s18350
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-samples.png
+c000000004E40215F000000000000049D
+t1312825695
+s1181
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/libzbar.a
+c000000005118D79700000000002AE030
+t1360582551
+s2809904
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/icon.png
+c000000004F36BB0E000000000000072E
+t1328986894
+s1838
+
+N/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+c0000000051DBC2130000000000001D36
+t1373356563
+s7478
+
+NQRContact/QRContact-Info.plist
+c0000000050BE3FAF000000000000051B
+t1354645423
+s1307
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2cb7b00b04a5b741^1821c00b04a5b741^---0#1#0#--18"Check dependencies36"DFA96B41-9E0C-46D1-8FB9-F8E2ABF8B8B6-
+
+CCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app
+s396690446.066395
+e396690446.460493
+r1
+xCodeSign
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app4b20110e04a5b741^6726ac0e04a5b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/0000000000000000^981"CodeSign DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 8e72a3bdb14b5665b8d51cbcbab716ec47054420 --resource-rules=/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist --entitlements /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app36"04E46FBB-DA1D-43C5-9698-FCC18253B821-
+
+CCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396690444.352036
+e396690444.555416
+r1
+xCompileC
+xDerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m2e585a0c04a5b741^f52e8e0c04a5b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m0000000000000000^3935"CompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.o QRContact/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/AppDelegate.o36"5F7A9AB6-F718-456B-B541-90BE12E918D2-
+
+CCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396690444.352001
+e396690444.543040
+r1
+xCompileC
+xDerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m815c5a0c04a5b741^9f038b0c04a5b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m0000000000000000^3911"CompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.o QRContact/Contact.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Contact.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/Contact.o36"0112EAFB-CE81-4469-8AA5-021D3F57192E-
+
+CCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396690444.352016
+e396690444.656977
+r1
+xCompileC
+xDerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.md55c5a0c04a5b741^3ae9c10c04a5b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.m0000000000000000^3953"CompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.o QRContact/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ViewController.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/ViewController.o36"F9A69E5F-CF3C-4264-B58D-A72D624A94C4-
+
+CCompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396690444.352027
+e396690444.547927
+r1
+xCompileC
+xDerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.mf25d5a0c04a5b741^5b448c0c04a5b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.m0000000000000000^3893"CompileC DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.o QRContact/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/main.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/main.o36"308259AA-517F-4687-BBC6-55460EC2A7D7-
+
+CCompileStoryboard /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/MainStoryboard.storyboard
+s396690445.225438
+e396690445.955103
+r1
+xCompileStoryboard
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard QRContact/en.lproj/MainStoryboard.storyboarde8dc390d04a5b741^d40dac0e04a5b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/MainStoryboard.storyboard0000000000000000^947"CompileStoryboard QRContact/en.lproj/MainStoryboard.storyboard    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj/MainStoryboard.storyboardc /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"288A2E02-BFE8-451C-AFBB-94F1B1FFE768-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default-568h@2x.png QRContact/Default-568h@2x.png
+s396690445.075119
+e396690445.329892
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default-568h@2x.png
+xQRContact/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default-568h@2x.png QRContact/Default-568h@2x.png8a59130d04a5b741^47e7800d04a5b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default-568h@2x.png0000000000000000^717"CopyPNGFile "DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default-568h@2x.png" "QRContact/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default-568h@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default-568h@2x.png"36"7E62AEDF-21CC-4E2C-B2EB-3BC97CFA89CB-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default.png QRContact/Default.png
+s396690445.074585
+e396690445.224087
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default.png
+xQRContact/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default.png QRContact/Default.png3f38130d04a5b741^84f4440d04a5b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default.png0000000000000000^677"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default.png QRContact/Default.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default.png /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default.png36"058A896E-FC95-4059-AE67-8EC47257FE6D-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default@2x.png QRContact/Default@2x.png
+s396690445.074596
+e396690445.297908
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default@2x.png
+xQRContact/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default@2x.png QRContact/Default@2x.pngf339130d04a5b741^b8e4800d04a5b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default@2x.png0000000000000000^697"CopyPNGFile "DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default@2x.png" "QRContact/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/Default@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Default@2x.png"36"77E8FB6B-C861-4DAE-852E-CEBDA7039FFE-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/icon.png icon.png
+s396690445.271054
+e396690445.380944
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/icon.png
+xicon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/icon.png icon.pnga583450d04a5b741^0bf1800d04a5b741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/icon.png0000000000000000^645"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/icon.png icon.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/icon.png /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/icon.png36"22A8EB06-B8C8-4A2D-A10E-9D92B32F2972-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-back.png ZBarSDK/Resources/zbar-back.png
+s396690445.299287
+e396690445.398523
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-back.png
+xZBarSDK/Resources/zbar-back.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-back.png ZBarSDK/Resources/zbar-back.pnga9bd4c0d04a5b741^0ef8800d04a5b741^-142"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.-0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-back.png0000000000000000^701"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-back.png ZBarSDK/Resources/zbar-back.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-back.png /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-back.png36"40EC9920-9473-4E5D-8E6C-7C5B9E5B9F92-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-helpicons.png ZBarSDK/Resources/zbar-helpicons.png
+s396690445.335822
+e396690445.463187
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-helpicons.png
+xZBarSDK/Resources/zbar-helpicons.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-helpicons.png ZBarSDK/Resources/zbar-helpicons.png3a1f560d04a5b741^54ff800d04a5b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-helpicons.png0000000000000000^721"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-helpicons.png ZBarSDK/Resources/zbar-helpicons.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-helpicons.png /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-helpicons.png36"A74C0894-BC94-4A4C-B916-81F0995F2769-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-samples.png ZBarSDK/Resources/zbar-samples.png
+s396690445.396785
+e396690445.468841
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-samples.png
+xZBarSDK/Resources/zbar-samples.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-samples.png ZBarSDK/Resources/zbar-samples.png0ed8650d04a5b741^1805810d04a5b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-samples.png0000000000000000^713"CopyPNGFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-samples.png ZBarSDK/Resources/zbar-samples.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-samples.png /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-samples.png36"FE052CA8-3085-4CAB-8F74-375A5D035527-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj/InfoPlist.strings QRContact/en.lproj/InfoPlist.strings
+s396690445.074565
+e396690445.269730
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj/InfoPlist.strings
+xQRContact/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy QRContact/en.lproj/InfoPlist.stringsb937130d04a5b741^7adf800d04a5b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/en.lproj/InfoPlist.strings0000000000000000^650"CopyStringsFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj/InfoPlist.strings QRContact/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/en.lproj -- QRContact/en.lproj/InfoPlist.strings36"21129177-58FD-4BC6-9E00-7F53F0FCD7ED-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist
+s396690443.756787
+e396690443.761854
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist37fdc10b04a5b741^7808c30b04a5b741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist000000000080d041^818"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app36"060807C6-4966-4A16-B1E2-7A122D84BCDD-
+
+CCpResource ZBarSDK/Resources/zbar-help.html DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-help.html
+s396690445.331318
+e396690445.334340
+r1
+xCpResource
+xZBarSDK/Resources/zbar-help.html
+xDerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-help.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-help.html30f4540d04a5b741^96ec800d04a5b741^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-help.html000000000080d041^687"CpResource ZBarSDK/Resources/zbar-help.html DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/zbar-help.html    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK/Resources/zbar-help.html /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app36"3A3F3001-EDCF-4D21-9979-CC5616991B0D-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact
+s396690444.949869
+e396690445.066333
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generate /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM3081f30c04a5b741^42d1440d04a5b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM000000000080d041^765"GenerateDSYMFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app.dSYM36"7804FAF6-A862-4096-AF20-B6B402A00F48-
+
+CLd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact normal armv7
+s396690444.663345
+e396690444.937804
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact
+xnormal
+xarmv7
+old: warning: directory not found for option '-L/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/../素材/ZBarSDK'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact10eba90c04a5b741^53cd440d04a5b741^-118"ld: warning: directory not found for option '-L/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/../素材/ZBarSDK'1(21%IDEActivityLogMessage2@104"Directory not found for option '-L/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/../素材/ZBarSDK'-396690444#0#114#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#0#--1605"Ld DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact normal armv7    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos -L/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/../素材/ZBarSDK -L/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/ZBarSDK -L/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/ZBarSDK -F/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos -filelist /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/Objects-normal/armv7/QRContact.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.0 -framework AddressBook -liconv -framework QuartzCore -framework CoreVideo -framework CoreMedia -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -lzbar -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/QRContact36"46C52815-054B-4CB9-A357-210E861BEFB6-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Info.plist QRContact/QRContact-Info.plist
+s396690443.756777
+e396690443.761285
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Info.plist
+xQRContact/QRContact-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process QRContact/QRContact-Info.plista0fcc10b04a5b741^adf8c20b04a5b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/QRContact-Info.plist0000000000000000^918"ProcessInfoPlistFile DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Info.plist QRContact/QRContact-Info.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QRContact/QRContact-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/ResourceRules.plist -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/Info.plist36"355BF8DF-BEE5-4F13-A51C-9EE8F3415F13-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.pth QRContact/QRContact-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396690443.769784
+e396690444.344975
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.pth
+xQRContact/QRContact-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile QRContact/QRContact-Prefix.pchb43ec50b04a5b741^7f4f580c04a5b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/QRContact-Prefix.pch0000000000000000^3797"ProcessPCH DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.pth QRContact/QRContact-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/QRContact/QRContact-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/PrecompiledHeaders/QRContact-Prefix-dnhdgdvfhrcrqzdspgrlagixxwyq/QRContact-Prefix.pch.d36"A0320DCF-C9DC-4014-98EC-2BA6E583AD8C-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Index/PrecompiledHeaders/QRContact-Prefix-dpcmxxfrnlkonrdhsjbzaghggkzq_ast/QRContact-Prefix.pch.pth QRContact/QRContact-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision
+s396690445.976321
+e396690446.013010
+r1
+xProcessProductPackaging
+x/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection237"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision960afa0d04a5b741^7e19ac0e04a5b741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision0000000000000000^790"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app/embedded.mobileprovision36"30B710A7-4190-4BCC-9382-CBEE058F987B-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent
+s396690446.054091
+e396690446.058271
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent5df80d0e04a5b741^e221ac0e04a5b741^---0#0#0#-19%DVTDocumentLocation2@172"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent000000000080d041^840"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Intermediates/QRContact.build/Debug-iphoneos/QRContact.build/QRContact.xcent36"2D52D9FD-2A13-46F2-B26A-BE073A081135-
+
+CTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app
+s396690446.030784
+e396690446.046017
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Touch /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app2ffd070e04a5b741^a41cac0e04a5b741^---0#0#0#--459"Touch DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/cocos2dx/QRContact/DerivedData/QRContact/Build/Products/Debug-iphoneos/QRContact.app36"D64F9E56-51BF-4637-8010-681E191F54AF-
+
